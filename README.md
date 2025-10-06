@@ -1,16 +1,11 @@
-<h1 align="center">This is Zayn's Github👋</h1>
+<h1 align="center">This is Zayn👋</h1>
 <h3 align="center">A passionate learner from China</h3>
 
 - 🌱 I’m currently learning **[Data Sicence](https://simple.wikipedia.org/wiki/Data_science)**
 
-- 📝 I regularly write articles on **[zhihu](https://www.zhihu.com/people/lzy-58-17-44)**
+- 📝 I regularly write articles on **[zhihu](https://www.zhihu.com/people/lzy-58-17-44)** and **[github](zlzayn.github.io/mine)**
 
 - 📫 How to reach me **speaklzy@sina.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/zayninkaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zayninkaggle" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> </a> </p>
