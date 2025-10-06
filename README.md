@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **[Data Sicence](https://simple.wikipedia.org/wiki/Data_science)**
 
-- 📝 I regularly write articles on **[zhihu](https://www.zhihu.com/people/lzy-58-17-44)** and **[github](zlzayn.github.io/mine)**
+- 📝 I regularly write articles on **[zhihu](https://www.zhihu.com/people/lzy-58-17-44)** and **[github](https://zlzayn.github.io/mine/)**
 
 - 📫 How to reach me **speaklzy@sina.com**
 
