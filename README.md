@@ -1,7 +1,7 @@
 <h1 align="center">This is Zayn👋</h1>
 <h3 align="center">A passionate learner from China</h3>
 
-- 🌱 I’m currently learning **[Data Sicence](https://simple.wikipedia.org/wiki/Data_science)**
+- 🌱 I'm currently learning **[AI Engineering](https://en.wikipedia.org/wiki/Prompt_engineering)**
 
 - 📝 I regularly write articles([zlzayn.github.io/mine](https://zlzayn.github.io/mine/)) on **[知乎](https://www.zhihu.com/people/lzy-58-17-44)** and **[github](https://github.com/zlZayn/mine)**
 
