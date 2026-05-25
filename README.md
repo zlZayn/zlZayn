@@ -1,15 +1,29 @@
-<h1 align="center">This is Zayn👋</h1>
+<h1 align="center">This is Zayn</h1>
 <h3 align="center">A passionate learner from China</h3>
 
-- 🌱 I'm currently learning **[AI Engineering](https://en.wikipedia.org/wiki/Prompt_engineering)**
+<ul>
+  <li><strong>Currently learning:</strong> Harness Engineering</li>
+  <li><strong>Writing:</strong> Articles on <a href="https://zlzayn.github.io/mine/">zlzayn.github.io/mine</a> (知乎 & GitHub)</li>
+  <li><strong>Contact:</strong> speaklzy@sina.com</li>
+</ul>
 
-- 📝 I regularly write articles([zlzayn.github.io/mine](https://zlzayn.github.io/mine/)) on **[知乎](https://www.zhihu.com/people/lzy-58-17-44)** and **[github](https://github.com/zlZayn/mine)**
-
-- 📫 How to reach me **speaklzy@sina.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="R" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="R" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="R" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="R" width="40" height="40"/> </a> </p>
+<div align="center">
+  <p>
+    <strong>Languages & Query</strong><br/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
+  <p>
+    <strong>Environments & Docs</strong><br/>
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Quarto-2D3E50?style=for-the-badge&logo=quarto&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  </p>
+  <p>
+    <strong>Dev Utilities</strong><br/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  </p>
+</div>
