@@ -4,7 +4,7 @@
 <h3 align="center">A passionate learner from China</h3>
 
 <ul>
-  <li><strong>Currently learning:</strong> Harness Engineering on <a href="https://zlzayn.github.io/AI-portfolio/" target="_blank" rel="noopener noreferrer">zlzayn.github.io/AI-portfolio</a> </li>
+  <li><strong>Currently learning:</strong> AI Engineering on <a href="https://zlzayn.github.io/AI-portfolio/" target="_blank" rel="noopener noreferrer">zlzayn.github.io/AI-portfolio</a> </li>
   <li><strong>Writing:</strong> Articles on <a href="https://zlzayn.github.io/mine/" target="_blank" rel="noopener noreferrer">zlzayn.github.io/mine</a> (知乎 & GitHub)</li>
   <li><strong>Contact:</strong> speaklzy@sina.com</li>
 </ul>
