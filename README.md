@@ -11,11 +11,17 @@
 
 ## 🚀 Featured Projects
 
-**🧩 DSH 插件生态** — [dsh-ds-balance](https://github.com/zlZayn/dsh-ds-balance) 侧栏余额 · [dsh-zhihu-search](https://github.com/zlZayn/dsh-zhihu-search) 知乎检索 · [dsh-workbuddy-bridge](https://github.com/zlZayn/dsh-workbuddy-bridge) WorkBuddy 桥接
+**🧩 [DSH 插件生态](https://github.com/dsh-plugin-lab)**：
 
-**🤖 AI 工具集** — [AI-decision-maker](https://github.com/zlZayn/AI-decision-maker) 数据清洗框架 · [imagora](https://github.com/zlZayn/imagora) 本地生图工作台 · [AI-analytics-platform](https://github.com/zlZayn/AI-analytics-platform) 对话式数据分析 · [AI-RAG-embed](https://github.com/zlZayn/AI-RAG-embed) 本地 RAG · [AI-tool-calling](https://github.com/zlZayn/AI-tool-calling) 工具调用 / MCP · [AI-collaborate](https://github.com/zlZayn/AI-collaborate) 多智能体编排 · [tablesnap](https://github.com/zlZayn/tablesnap) 截图转表格 · [VideoDub](https://github.com/zlZayn/VideoDub) 视频音色替换
+[dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) 侧栏余额 · [dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) 知乎检索 · [dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) WorkBuddy 桥接
 
-**🌐 Web 与创意** — [Tarot](https://github.com/zlZayn/Tarot) 3D 塔罗牌 · [md-to-single-html-ebook](https://github.com/zlZayn/md-to-single-html-ebook) Markdown 电子书 · [rpa_snap_locate](https://github.com/zlZayn/rpa_snap_locate) RPA 录制回放 · [WordLists](https://github.com/zlZayn/WordLists) 背单词 · [WordsMatch](https://github.com/zlZayn/WordsMatch) 单词匹配
+**🤖 [AI 工具集](https://github.com/Cogniform)**：
+
+[AI-decision-maker](https://github.com/Cogniform/AI-decision-maker) 数据清洗框架 · [imagora](https://github.com/Cogniform/imagora) 生图工作台 · [AI-analytics-platform](https://github.com/Cogniform/AI-analytics-platform) 对话式数据分析 · [AI-RAG-embed](https://github.com/Cogniform/AI-RAG-embed) 本地 RAG · [AI-tool-calling](https://github.com/Cogniform/AI-tool-calling) 工具调用 / MCP · [AI-collaborate](https://github.com/Cogniform/AI-collaborate) 多智能体编排 · [tablesnap](https://github.com/zlZayn/tablesnap) 截图转表格 · [VideoDub](https://github.com/zlZayn/VideoDub) 视频音色替换
+
+**🌐 Web 与创意**：
+
+[Tarot](https://github.com/zlZayn/Tarot) 3D 塔罗牌 · [md-to-single-html-ebook](https://github.com/zlZayn/md-to-single-html-ebook) Markdown 电子书 · [rpa_snap_locate](https://github.com/zlZayn/rpa_snap_locate) RPA 录制回放 · [WordLists](https://github.com/zlZayn/WordLists) 背单词 · [WordsMatch](https://github.com/zlZayn/WordsMatch) 单词匹配
 
 ## 🛠 Languages
 <p>
