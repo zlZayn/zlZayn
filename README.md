@@ -4,7 +4,7 @@
 <h3 align="center">AI Engineer · DSH Plugin Developer · Lifelong Learner</h3>
 
 ## 👨‍💻 About Me
-- **Building**: DeepSeek Harness（DSH）插件生态 —— 侧栏余额、知乎检索、WorkBuddy 桥接
+- **Building**: DeepSeek Harness（DSH）插件生态
 - **Learning**: AI Engineering on [zlzayn.github.io/AI-portfolio](https://zlzayn.github.io/AI-portfolio/)
 - **Writing**: Articles on [zlzayn.github.io/mine](https://zlzayn.github.io/mine/)
 - **Contact**: speaklzy@sina.com
@@ -13,7 +13,7 @@
 
 **🧩 [DSH 插件生态](https://github.com/dsh-plugin-lab)**：
 
-[dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) 侧栏余额 · [dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) 知乎检索 · [dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) WorkBuddy 桥接
+[dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) 侧栏余额 · [dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) 知乎检索 · [dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) WorkBuddy 桥接 · [dsh-plugin-debugging](https://github.com/dsh-plugin-lab/dsh-plugin-debugging)  DSH 插件调试
 
 **🤖 [AI 工具集](https://github.com/Cogniform)**：
 
