@@ -12,6 +12,8 @@
   <strong>OPEN SOURCE</strong>
   &nbsp; / &nbsp;
   <strong>COMPUTATIONAL TOOLS</strong>
+  &nbsp; / &nbsp;
+  <strong>DATA SCIENCE</strong>
 </p>
 
 ---
