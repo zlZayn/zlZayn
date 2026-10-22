@@ -1,68 +1,153 @@
-<img width="2121" height="741" alt="构建智能系统：极简科技海报" src="https://github.com/user-attachments/assets/5f9557b2-2433-4372-9d4e-fc819d205339" />
-
-
-<h1 align="center">Hi, I'm Zayn</h1>
-<h3 align="center">AI Engineer · DSH Plugin Developer · Lifelong Learner</h3>
-
-## 👨‍💻 About Me
-- **Building**: DeepSeek Harness（DSH）插件生态
-- **Learning**: AI Engineering on [zlzayn.github.io/AI-portfolio](https://zlzayn.github.io/AI-portfolio/)
-- **Writing**: Articles on [zlzayn.github.io/mine](https://zlzayn.github.io/mine/)
-- **Contact**: speaklzy@sina.com
-
-## 🚀 Featured Projects
-
-**🧩 [DSH 插件生态](https://github.com/dsh-plugin-lab)**：
-
-[dsh-ds-balance](https://github.com/dsh-plugin-lab/dsh-ds-balance) 侧栏余额 · [dsh-zhihu-search](https://github.com/dsh-plugin-lab/dsh-zhihu-search) 知乎检索 · [dsh-workbuddy-bridge](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) WorkBuddy 桥接 · [dsh-plugin-debugging](https://github.com/dsh-plugin-lab/dsh-plugin-debugging)  DSH 插件调试
-
-**🤖 [AI 工具集](https://github.com/Cogniform)**：
-
-[AI-decision-maker](https://github.com/Cogniform/AI-decision-maker) 数据清洗框架 · [imagora](https://github.com/Cogniform/imagora) 生图工作台 · [AI-analytics-platform](https://github.com/Cogniform/AI-analytics-platform) 对话式数据分析 · [AI-RAG-embed](https://github.com/Cogniform/AI-RAG-embed) 本地 RAG · [AI-tool-calling](https://github.com/Cogniform/AI-tool-calling) 工具调用 / MCP · [AI-collaborate](https://github.com/Cogniform/AI-collaborate) 多智能体编排 · [tablesnap](https://github.com/zlZayn/tablesnap) 截图转表格 · [VideoDub](https://github.com/zlZayn/VideoDub) 视频音色替换
-
-**🌐 Web 与创意**：
-
-[Tarot](https://github.com/zlZayn/Tarot) 3D 塔罗牌 · [md-to-single-html-ebook](https://github.com/zlZayn/md-to-single-html-ebook) Markdown 电子书 · [rpa_snap_locate](https://github.com/zlZayn/rpa_snap_locate) RPA 录制回放 · [WordLists](https://github.com/zlZayn/WordLists) 背单词 · [WordsMatch](https://github.com/zlZayn/WordsMatch) 单词匹配
-
-## 🛠 Languages
-<p>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jinja-B41717?style=for-the-badge"/>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5f9557b2-2433-4372-9d4e-fc819d205339"
+    alt="Zayn Liu — Building Intelligence Into Systems"
+    width="100%"
+  />
 </p>
 
-## 🤖 AI / LLM
-<p>
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agent-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool%20Calling-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Orchestration-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLM-4D6BFE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TTS-4D6BFE?style=for-the-badge"/>
+<p align="left">
+  <strong>AI ENGINEERING</strong>
+  &nbsp; / &nbsp;
+  <strong>OPEN SOURCE</strong>
+  &nbsp; / &nbsp;
+  <strong>COMPUTATIONAL TOOLS</strong>
 </p>
 
-## 🧰 Web & Tools
+---
+
+## 01 / PROFILE
+
+# Hi, I'm Zayn.
+
+**AI Engineer · DSH Plugin Developer · Applied Statistics Student**
+
+Building AI-powered tools, developer plugins, and data-driven applications.
+
+- **Building** — DeepSeek Harness plugin ecosystem
+- **Exploring** — LLM applications, RAG, agents and MCP
+- **Studying** — Applied Statistics @ TJUTCM
+
 <p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Quarto-2D3E50?style=for-the-badge&logo=quarto&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white"/>
+  <a href="https://github.com/zlZayn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GITHUB-F5F4EF?style=flat-square&logo=github&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://zlzayn.github.io/AI-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-AI--PORTFOLIO-F5F4EF?style=flat-square&logo=opsgenie&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="AI-Portfolio" /></a>
+  &nbsp;
+  <a href="https://zlzayn.github.io/mine/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ARTICLES-F5F4EF?style=flat-square&logo=bookstack&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="Articles" /></a>
+  &nbsp;
+  <a href="https://www.zhihu.com/people/lzy-58-17-44/columns" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ZHIHU-F5F4EF?style=flat-square&logo=zhihu&logoColor=0084FF&labelColor=F5F4EF&color=F5F4EF" alt="Zhihu" /></a>
 </p>
 
-## 📊 GitHub Stats
-[![Zayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlZayn&show_icons=true&theme=default)](https://github.com/zlZayn)
+---
+
+## 02 / SELECTED WORK
+
+### 01 — DSH Plugin Ecosystem
+
+<sub>PLUGIN DEVELOPMENT / INTEGRATIONS / DEVELOPER TOOLS</sub>
+
+<a href="https://github.com/dsh-plugin-lab" target="_blank" rel="noopener noreferrer">DSH-PLUGIN-LAB ↗</a>
+
+| Project | Focus |
+|:--|:--|
+| <a href="https://github.com/dsh-plugin-lab/dsh-ds-balance" target="_blank" rel="noopener noreferrer">dsh-ds-balance ↗</a> | Account balance |
+| <a href="https://github.com/dsh-plugin-lab/dsh-zhihu-search" target="_blank" rel="noopener noreferrer">dsh-zhihu-search ↗</a> | Search integration |
+| <a href="https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge" target="_blank" rel="noopener noreferrer">dsh-workbuddy-bridge ↗</a> | Desktop AI bridge |
+| <a href="https://github.com/dsh-plugin-lab/dsh-plugin-debugging" target="_blank" rel="noopener noreferrer">dsh-plugin-debugging ↗</a> | Runtime diagnostics |
+
+### 02 — AI Engineering
+
+<sub>LLM APPLICATIONS / DATA INTELLIGENCE / AGENT SYSTEMS</sub>
+
+<a href="https://github.com/Cogniform" target="_blank" rel="noopener noreferrer">COGNIFORM ↗</a>
+
+| Project | Focus |
+|:--|:--|
+| <a href="https://github.com/Cogniform/AI-analytics-platform" target="_blank" rel="noopener noreferrer">AI-analytics-platform ↗</a> | Conversational data analytics |
+| <a href="https://github.com/Cogniform/AI-RAG-embed" target="_blank" rel="noopener noreferrer">AI-RAG-embed ↗</a> | Local RAG |
+| <a href="https://github.com/Cogniform/AI-decision-maker" target="_blank" rel="noopener noreferrer">AI-decision-maker ↗</a> | Data type inference |
+| <a href="https://github.com/Cogniform/AI-tier-guardian" target="_blank" rel="noopener noreferrer">AI-tier-guardian ↗</a> | AI content moderation |
+| <a href="https://github.com/Cogniform/AI-schema-mapper" target="_blank" rel="noopener noreferrer">AI-schema-mapper ↗</a> | Data standardization |
+| <a href="https://github.com/Cogniform/AI-collaborate" target="_blank" rel="noopener noreferrer">AI-collaborate ↗</a> | Multi-agent orchestration |
+| <a href="https://github.com/Cogniform/AI-tool-calling" target="_blank" rel="noopener noreferrer">AI-tool-calling ↗</a> | Tool calling / MCP |
+| <a href="https://github.com/Cogniform/AI-novel-chain" target="_blank" rel="noopener noreferrer">AI-novel-chain ↗</a> | AI writing workflow |
+| <a href="https://github.com/Cogniform/AI-batch-raw-to-offline-guide" target="_blank" rel="noopener noreferrer">AI-batch-raw-to-offline-guide ↗</a> | Offline guide generation |
+| <a href="https://github.com/Cogniform/imagora" target="_blank" rel="noopener noreferrer">imagora ↗</a> | Image generation workspace |
+
+### 03 — Developer Utilities
+
+<sub>PRODUCTIVITY / AUTOMATION / CONTENT TOOLS</sub>
+
+| Project | Focus |
+|:--|:--|
+| <a href="https://github.com/zlZayn/tablesnap" target="_blank" rel="noopener noreferrer">tablesnap ↗</a> | Screenshot to table |
+| <a href="https://github.com/zlZayn/VideoDub" target="_blank" rel="noopener noreferrer">VideoDub ↗</a> | Video voice replacement |
+| <a href="https://github.com/zlZayn/rpa_snap_locate" target="_blank" rel="noopener noreferrer">rpa_snap_locate ↗</a> | RPA recording and replay |
+| <a href="https://github.com/zlZayn/md-to-single-html-ebook" target="_blank" rel="noopener noreferrer">md-to-single-html-ebook ↗</a> | Markdown to HTML ebook |
+
+### 04 — Web & Creative Computing
+
+<sub>INTERACTIVE EXPERIENCES / LEARNING TOOLS</sub>
+
+| Project | Focus |
+|:--|:--|
+| <a href="https://github.com/zlZayn/Tarot" target="_blank" rel="noopener noreferrer">Tarot ↗</a> | 3D tarot experience |
+| <a href="https://github.com/zlZayn/WordLists" target="_blank" rel="noopener noreferrer">WordLists ↗</a> | Vocabulary learning |
+| <a href="https://github.com/zlZayn/WordsMatch" target="_blank" rel="noopener noreferrer">WordsMatch ↗</a> | Word matching |
+
+---
+
+## 03 / TECHNICAL TOOLKIT
+
+**LANGUAGES**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=F5F4EF&color=F5F4EF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=3776AB&labelColor=F5F4EF&color=F5F4EF" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=9A7800&labelColor=F5F4EF&color=F5F4EF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=276DC3&labelColor=F5F4EF&color=F5F4EF" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=F5F4EF&color=F5F4EF" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=E34F26&labelColor=F5F4EF&color=F5F4EF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=1572B6&labelColor=F5F4EF&color=F5F4EF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=B41717&labelColor=F5F4EF&color=F5F4EF" alt="Jinja" />
+</p>
+
+**AI & LLM SYSTEMS**
+
+<p>
+  <img src="https://img.shields.io/badge/DSH-171717?style=flat-square&logo=deepseek&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="DSH" />
+  <img src="https://img.shields.io/badge/RAG-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agents-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="Agents" />
+  <img src="https://img.shields.io/badge/MCP-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="MCP" />
+  <img src="https://img.shields.io/badge/Tool_Calling-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="LLM Orchestration" />
+  <img src="https://img.shields.io/badge/VLM-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="VLM" />
+  <img src="https://img.shields.io/badge/TTS-315BFA?style=flat-square&labelColor=F5F4EF&color=F5F4EF" alt="TTS" />
+</p>
+
+**WEB & INFRASTRUCTURE**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=339933&labelColor=F5F4EF&color=F5F4EF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=087EA4&labelColor=F5F4EF&color=F5F4EF" alt="React" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="Three.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=F5F4EF&color=F5F4EF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=F5F4EF&color=F5F4EF" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=4EAA25&labelColor=F5F4EF&color=F5F4EF" alt="Bash" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=F69220&labelColor=F5F4EF&color=F5F4EF" alt="pnpm" />
+</p>
+
+**DEVELOPMENT & RESEARCH**
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=F37626&labelColor=F5F4EF&color=F5F4EF" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=39729E&labelColor=F5F4EF&color=F5F4EF" alt="Quarto" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=008080&labelColor=F5F4EF&color=F5F4EF" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=6E9F18&labelColor=F5F4EF&color=F5F4EF" alt="Vitest" />
+</p>
+
+---
+
+<p align="left">
+  <sub>ZL / 001 &nbsp; · &nbsp; BUILDING INTELLIGENCE INTO SYSTEMS.</sub>
+</p>
