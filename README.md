@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="2121" height="741" alt="构建智能系统：极简科技海报" src="https://github.com/user-attachments/assets/5f9557b2-2433-4372-9d4e-fc819d205339" />
+
 
 <h1 align="center">Hi, I'm Zayn</h1>
 <h3 align="center">AI Engineer · DSH Plugin Developer · Lifelong Learner</h3>
@@ -65,5 +66,3 @@
 
 ## 📊 GitHub Stats
 [![Zayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlZayn&show_icons=true&theme=default)](https://github.com/zlZayn)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
