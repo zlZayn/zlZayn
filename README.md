@@ -29,13 +29,13 @@ Building AI-powered tools, developer plugins, and data-driven applications.
 - **Studying** — Applied Statistics @ TJUTCM
 
 <p>
-  <a href="https://github.com/zlZayn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GITHUB-F5F4EF?style=flat-square&logo=github&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="GitHub" /></a>
+  <a href="https://github.com/zlZayn" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GITHUB-F5F4EF?style=flat-square&logo=github&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://zlzayn.github.io/AI-portfolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-AI--PORTFOLIO-F5F4EF?style=flat-square&logo=opsgenie&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="AI-Portfolio" /></a>
+  <a href="https://zlzayn.github.io/AI-portfolio/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-AI--PORTFOLIO-F5F4EF?style=flat-square&logo=opsgenie&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="AI-Portfolio" /></a>
   &nbsp;
-  <a href="https://zlzayn.github.io/mine/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ARTICLES-F5F4EF?style=flat-square&logo=bookstack&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="Articles" /></a>
+  <a href="https://zlzayn.github.io/mine/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ARTICLES-F5F4EF?style=flat-square&logo=bookstack&logoColor=171717&labelColor=F5F4EF&color=F5F4EF" alt="Articles" /></a>
   &nbsp;
-  <a href="https://www.zhihu.com/people/lzy-58-17-44/columns" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ZHIHU-F5F4EF?style=flat-square&logo=zhihu&logoColor=0084FF&labelColor=F5F4EF&color=F5F4EF" alt="Zhihu" /></a>
+  <a href="https://www.zhihu.com/people/lzy-58-17-44/columns" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-ZHIHU-F5F4EF?style=flat-square&logo=zhihu&logoColor=0084FF&labelColor=F5F4EF&color=F5F4EF" alt="Zhihu" /></a>
 </p>
 
 ---
@@ -46,33 +46,33 @@ Building AI-powered tools, developer plugins, and data-driven applications.
 
 <sub>PLUGIN DEVELOPMENT / INTEGRATIONS / DEVELOPER TOOLS</sub>
 
-<a href="https://github.com/dsh-plugin-lab" target="_blank" rel="noopener noreferrer">DSH-PLUGIN-LAB ↗</a>
+<a href="https://github.com/dsh-plugin-lab"><img src="https://github.com/dsh-plugin-lab.png?size=32" width="24" height="24" style="border-radius: 50%; vertical-align: middle; margin-right: 4px;" alt="dsh-plugin-lab" /> <strong>DSH-PLUGIN-LAB ↗</strong></a>
 
 | Project | Focus |
 |:--|:--|
-| <a href="https://github.com/dsh-plugin-lab/dsh-ds-balance" target="_blank" rel="noopener noreferrer">dsh-ds-balance ↗</a> | Account balance |
-| <a href="https://github.com/dsh-plugin-lab/dsh-zhihu-search" target="_blank" rel="noopener noreferrer">dsh-zhihu-search ↗</a> | Search integration |
-| <a href="https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge" target="_blank" rel="noopener noreferrer">dsh-workbuddy-bridge ↗</a> | Desktop AI bridge |
-| <a href="https://github.com/dsh-plugin-lab/dsh-plugin-debugging" target="_blank" rel="noopener noreferrer">dsh-plugin-debugging ↗</a> | Runtime diagnostics |
+| <a href="https://github.com/dsh-plugin-lab/dsh-ds-balance" rel="noopener noreferrer">dsh-ds-balance ↗</a> | Account balance |
+| <a href="https://github.com/dsh-plugin-lab/dsh-zhihu-search" rel="noopener noreferrer">dsh-zhihu-search ↗</a> | Search integration |
+| <a href="https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge" rel="noopener noreferrer">dsh-workbuddy-bridge ↗</a> | Desktop AI bridge |
+| <a href="https://github.com/dsh-plugin-lab/dsh-plugin-debugging" rel="noopener noreferrer">dsh-plugin-debugging ↗</a> | Runtime diagnostics |
 
 ### 02 — AI Engineering
 
 <sub>LLM APPLICATIONS / DATA INTELLIGENCE / AGENT SYSTEMS</sub>
 
-<a href="https://github.com/Cogniform" target="_blank" rel="noopener noreferrer">COGNIFORM ↗</a>
+<a href="https://github.com/Cogniform"><img src="https://github.com/Cogniform.png?size=32" width="24" height="24" style="border-radius: 50%; vertical-align: middle; margin-right: 4px;" alt="Cogniform" /> <strong>COGNIFORM ↗</strong></a>
 
 | Project | Focus |
 |:--|:--|
-| <a href="https://github.com/Cogniform/AI-analytics-platform" target="_blank" rel="noopener noreferrer">AI-analytics-platform ↗</a> | Conversational data analytics |
-| <a href="https://github.com/Cogniform/AI-RAG-embed" target="_blank" rel="noopener noreferrer">AI-RAG-embed ↗</a> | Local RAG |
-| <a href="https://github.com/Cogniform/AI-decision-maker" target="_blank" rel="noopener noreferrer">AI-decision-maker ↗</a> | Data type inference |
-| <a href="https://github.com/Cogniform/AI-tier-guardian" target="_blank" rel="noopener noreferrer">AI-tier-guardian ↗</a> | AI content moderation |
-| <a href="https://github.com/Cogniform/AI-schema-mapper" target="_blank" rel="noopener noreferrer">AI-schema-mapper ↗</a> | Data standardization |
-| <a href="https://github.com/Cogniform/AI-collaborate" target="_blank" rel="noopener noreferrer">AI-collaborate ↗</a> | Multi-agent orchestration |
-| <a href="https://github.com/Cogniform/AI-tool-calling" target="_blank" rel="noopener noreferrer">AI-tool-calling ↗</a> | Tool calling / MCP |
-| <a href="https://github.com/Cogniform/AI-novel-chain" target="_blank" rel="noopener noreferrer">AI-novel-chain ↗</a> | AI writing workflow |
-| <a href="https://github.com/Cogniform/AI-batch-raw-to-offline-guide" target="_blank" rel="noopener noreferrer">AI-batch-raw-to-offline-guide ↗</a> | Offline guide generation |
-| <a href="https://github.com/Cogniform/imagora" target="_blank" rel="noopener noreferrer">imagora ↗</a> | Image generation workspace |
+| <a href="https://github.com/Cogniform/AI-analytics-platform" rel="noopener noreferrer">AI-analytics-platform ↗</a> | Conversational data analytics |
+| <a href="https://github.com/Cogniform/AI-RAG-embed" rel="noopener noreferrer">AI-RAG-embed ↗</a> | Local RAG |
+| <a href="https://github.com/Cogniform/AI-decision-maker" rel="noopener noreferrer">AI-decision-maker ↗</a> | Data type inference |
+| <a href="https://github.com/Cogniform/AI-tier-guardian" rel="noopener noreferrer">AI-tier-guardian ↗</a> | AI content moderation |
+| <a href="https://github.com/Cogniform/AI-schema-mapper" rel="noopener noreferrer">AI-schema-mapper ↗</a> | Data standardization |
+| <a href="https://github.com/Cogniform/AI-collaborate" rel="noopener noreferrer">AI-collaborate ↗</a> | Multi-agent orchestration |
+| <a href="https://github.com/Cogniform/AI-tool-calling" rel="noopener noreferrer">AI-tool-calling ↗</a> | Tool calling / MCP |
+| <a href="https://github.com/Cogniform/AI-novel-chain" rel="noopener noreferrer">AI-novel-chain ↗</a> | AI writing workflow |
+| <a href="https://github.com/Cogniform/AI-batch-raw-to-offline-guide" rel="noopener noreferrer">AI-batch-raw-to-offline-guide ↗</a> | Offline guide generation |
+| <a href="https://github.com/Cogniform/imagora" rel="noopener noreferrer">imagora ↗</a> | Image generation workspace |
 
 ### 03 — Developer Utilities
 
@@ -80,10 +80,10 @@ Building AI-powered tools, developer plugins, and data-driven applications.
 
 | Project | Focus |
 |:--|:--|
-| <a href="https://github.com/zlZayn/tablesnap" target="_blank" rel="noopener noreferrer">tablesnap ↗</a> | Screenshot to table |
-| <a href="https://github.com/zlZayn/VideoDub" target="_blank" rel="noopener noreferrer">VideoDub ↗</a> | Video voice replacement |
-| <a href="https://github.com/zlZayn/rpa_snap_locate" target="_blank" rel="noopener noreferrer">rpa_snap_locate ↗</a> | RPA recording and replay |
-| <a href="https://github.com/zlZayn/md-to-single-html-ebook" target="_blank" rel="noopener noreferrer">md-to-single-html-ebook ↗</a> | Markdown to HTML ebook |
+| <a href="https://github.com/zlZayn/tablesnap" rel="noopener noreferrer">tablesnap ↗</a> | Screenshot to table |
+| <a href="https://github.com/zlZayn/VideoDub" rel="noopener noreferrer">VideoDub ↗</a> | Video voice replacement |
+| <a href="https://github.com/zlZayn/rpa_snap_locate" rel="noopener noreferrer">rpa_snap_locate ↗</a> | RPA recording and replay |
+| <a href="https://github.com/zlZayn/md-to-single-html-ebook" rel="noopener noreferrer">md-to-single-html-ebook ↗</a> | Markdown to HTML ebook |
 
 ### 04 — Web & Creative Computing
 
@@ -91,9 +91,9 @@ Building AI-powered tools, developer plugins, and data-driven applications.
 
 | Project | Focus |
 |:--|:--|
-| <a href="https://github.com/zlZayn/Tarot" target="_blank" rel="noopener noreferrer">Tarot ↗</a> | 3D tarot experience |
-| <a href="https://github.com/zlZayn/WordLists" target="_blank" rel="noopener noreferrer">WordLists ↗</a> | Vocabulary learning |
-| <a href="https://github.com/zlZayn/WordsMatch" target="_blank" rel="noopener noreferrer">WordsMatch ↗</a> | Word matching |
+| <a href="https://github.com/zlZayn/Tarot" rel="noopener noreferrer">Tarot ↗</a> | 3D tarot experience |
+| <a href="https://github.com/zlZayn/WordLists" rel="noopener noreferrer">WordLists ↗</a> | Vocabulary learning |
+| <a href="https://github.com/zlZayn/WordsMatch" rel="noopener noreferrer">WordsMatch ↗</a> | Word matching |
 
 ---
 
